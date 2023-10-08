@@ -1,6 +1,6 @@
 {
   "name": "reddit-app",
-  "homepage":  "https://github.com/Albee89/TinyRed.git",
+  "homepage":  "https://albee89.github.io/TinyRed",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
