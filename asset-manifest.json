@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Albee89/TinyRed.git/static/css/main.6490e75f.css",
-    "main.js": "/Albee89/TinyRed.git/static/js/main.19033cc4.js",
-    "static/js/787.293d39b4.chunk.js": "/Albee89/TinyRed.git/static/js/787.293d39b4.chunk.js",
-    "static/media/tomato.png": "/Albee89/TinyRed.git/static/media/tomato.50a80465329daccae157.png",
-    "index.html": "/Albee89/TinyRed.git/index.html",
-    "main.6490e75f.css.map": "/Albee89/TinyRed.git/static/css/main.6490e75f.css.map",
-    "main.19033cc4.js.map": "/Albee89/TinyRed.git/static/js/main.19033cc4.js.map",
-    "787.293d39b4.chunk.js.map": "/Albee89/TinyRed.git/static/js/787.293d39b4.chunk.js.map"
+    "main.css": "/TinyRed/static/css/main.6490e75f.css",
+    "main.js": "/TinyRed/static/js/main.eca059c9.js",
+    "static/js/787.293d39b4.chunk.js": "/TinyRed/static/js/787.293d39b4.chunk.js",
+    "static/media/tomato.png": "/TinyRed/static/media/tomato.50a80465329daccae157.png",
+    "index.html": "/TinyRed/index.html",
+    "main.6490e75f.css.map": "/TinyRed/static/css/main.6490e75f.css.map",
+    "main.eca059c9.js.map": "/TinyRed/static/js/main.eca059c9.js.map",
+    "787.293d39b4.chunk.js.map": "/TinyRed/static/js/787.293d39b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6490e75f.css",
-    "static/js/main.19033cc4.js"
+    "static/js/main.eca059c9.js"
   ]
 }
