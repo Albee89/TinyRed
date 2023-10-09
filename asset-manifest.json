@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TinyRed/static/css/main.6490e75f.css",
+    "main.js": "/TinyRed/static/js/main.8660266a.js",
+    "static/js/787.293d39b4.chunk.js": "/TinyRed/static/js/787.293d39b4.chunk.js",
+    "static/media/tomato.png": "/TinyRed/static/media/tomato.50a80465329daccae157.png",
+    "index.html": "/TinyRed/index.html",
+    "main.6490e75f.css.map": "/TinyRed/static/css/main.6490e75f.css.map",
+    "main.8660266a.js.map": "/TinyRed/static/js/main.8660266a.js.map",
+    "787.293d39b4.chunk.js.map": "/TinyRed/static/js/787.293d39b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6490e75f.css",
+    "static/js/main.8660266a.js"
+  ]
+}
