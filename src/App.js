@@ -16,6 +16,7 @@ export default function App() {
   }, []);
 
   return (
+    <div id="app"></div>
     <div className="outerDiv">
 
       <h1>Tiny Red</h1>
