@@ -3,6 +3,7 @@ import axios from 'axios';
 
 export default function App() {
   const [posts, setPosts] = useState([]);
+  
 
   useEffect(() => {
     axios
@@ -17,7 +18,8 @@ export default function App() {
 
   return (
     <div id="app"></div>
-    <div className="outerDiv">
+     <div className="outerDiv">
+ 
 
       <h1>Tiny Red</h1>
       <h2>'Simply Red'-</h2>
